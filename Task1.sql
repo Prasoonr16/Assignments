@@ -4,7 +4,7 @@ create database CourierManagementSystem;
 
 -- using database --
 
-use CourierMagagementSystem
+use CourierMagagementSystem;
 
 -- creating Users table --
 
